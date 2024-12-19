@@ -5,7 +5,7 @@ title: Home
 
 ## About Me
 
-I am an final year student of Statistics at [the University of Science and Technology of China, School of the Gifted Young]([https://en.scgy.ustc.edu.cn/]). My passion for uncovering patterns within randomness has driven me to explore a wide range of topics, from financial applications to statistical linguistics and high-dimensional machine learning.
+I am an final year student of Statistics at [the University of Science and Technology of China, School of the Gifted Young](https://en.scgy.ustc.edu.cn/). My passion for uncovering patterns within randomness has driven me to explore a wide range of topics, from financial applications to statistical linguistics and high-dimensional machine learning.
 
 I am interested in high-dimensional statistics and statistical learning. During my summer research, I explored:
 
