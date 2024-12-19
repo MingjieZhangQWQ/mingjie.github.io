@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: homepage
 title: My Life
 ---
 ## My Life
