@@ -16,7 +16,7 @@ linkedin: https://www.linkedin.com/in/mingjie-zhang-136bb02b2/
 remote_theme: yaoyao-liu/minimal-light
 
 menu:
-  - title: home
+  - title: Home
     url: "/" 
     weight: 1
   - title: My Life
