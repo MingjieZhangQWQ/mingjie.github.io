@@ -1,8 +1,7 @@
 ---
 layout: homepage
+title: Home
 ---
-
-- [My Life](mylife.md)
 
 ## About Me
 
