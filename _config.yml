@@ -15,9 +15,11 @@ linkedin: https://www.linkedin.com/in/mingjie-zhang-136bb02b2/
 # Theme Settings
 remote_theme: yaoyao-liu/minimal-light
 
-navigation:
-  - name: "Home"
-    link: "/"
-  - name: "My Life"
-    link: "/mylife.html"
+menu:
+  - title: home
+    url: "/" 
+    weight: 1
+  - title: My Life
+    url: "/mylife/" 
+    weight: 2
     
