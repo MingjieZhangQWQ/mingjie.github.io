@@ -24,9 +24,9 @@ I am also interest in the intesection between Statistics and Economics and Lingu
 
 Apart from my academic journey, I am passionate about sharing my ideas and experiences with others. Serving as a Teaching Assistant (TA) has been one of the most rewarding ways to achieve this. Below are the courses I have contributed to as a TA:
 
--  Mathmatical Analysis B1
--  Mathmatical Analysis B2
--  Regression Analysis
+- <span style="display: inline-block; width: 80%;">Mathematical Analysis B1</span> <span style="float: right; color: gray;">Fall 2023</span>
+- <span style="display: inline-block; width: 80%;">Mathematical Analysis B2</span> <span style="float: right; color: gray;">Spring 2024</span>
+- <span style="display: inline-block; width: 80%;">Regression Analysis</span> <span style="float: right; color: gray;">Fall 2024</span>
   
 [Go to My Daily Life](mylife.html){: .btn .btn-primary }
 
