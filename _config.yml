@@ -19,4 +19,4 @@ navigation:
   - name: "Home"
     link: "/"
   - name: "My Life"
-    link: "/mylife.md"
+    link: "/mylife.html"
