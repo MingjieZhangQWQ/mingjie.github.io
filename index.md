@@ -28,7 +28,7 @@ Apart from my academic journey, I am passionate about sharing my ideas and exper
 -  Mathmatical Analysis B2
 -  Regression Analysis
   
-[Go to My Life](my_life.html){: .btn .btn-primary }
+[Go to My Daily Life](mylife.html){: .btn .btn-primary }
 
 
 
