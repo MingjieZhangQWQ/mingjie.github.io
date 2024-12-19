@@ -1,1 +1,15 @@
+# Basic Information
+title: My Personal Website
+position: final year student
+email: mingjiezhang415411@gmail.com
+
+# Links
+github_link: https://github.com/MingjieZhangQWQ
+linkedin: https://www.linkedin.com/in/mingjie-zhang-136bb02b2/
+
+# Images
+# avatar: ./assets/img/avatar.jpg
+# favicon: ./assets/img/favicon.png
+
+# Theme Settings
 remote_theme: yaoyao-liu/minimal-light
