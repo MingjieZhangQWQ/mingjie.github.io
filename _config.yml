@@ -17,9 +17,9 @@ remote_theme: yaoyao-liu/minimal-light
 
 menu:
   - title: Home
-    url: "/" 
+    url: / 
     weight: 1
   - title: My Life
-    url: "/mylife/" 
+    url: /mylife/ 
     weight: 2
     
