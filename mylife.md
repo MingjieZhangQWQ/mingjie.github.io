@@ -8,6 +8,10 @@ Welcome to the personal side of my website! I'm excited to share something outsi
 
 ## Music
 
+One of the artist I love is [Tanya Chua](https://en.wikipedia.org/wiki/Tanya_Chua). She is a Singaporean singer-songwriter. I love her song-writing, the melody seems simple but full of softness and novelty. I also admire her unique tone and rhythm that flows naturally within her songs, even though she doesn't see herself as an R&B artist.
+
+[Click here to see the details.](tanyachua.md)
+
 <div style="display: flex; justify-content: space-between; align-items: center; text-align: center;">
   <figure style="width: 30%;">
     <img src="assets/img/shuodaoai.jpg" alt="Album cover of Tanya Chua's 'Sing It Out of Love'" style="width: 100%;"/>
