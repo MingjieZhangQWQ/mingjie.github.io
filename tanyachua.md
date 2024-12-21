@@ -4,8 +4,7 @@ title: Tanya Chua
 ---
 
 <h1 style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 2.5em; color: #4a4a4a; text-align: center; margin-top: 20px; letter-spacing: 2px; text-transform: uppercase;">Tanya Chua</h1>
-
-<hr style="border: 1px dashed #cccccc; width: 60%; margin: auto;"/>
+<hr style="border: 1px dashed #cccccc; width: 100%; margin: auto;"/>
 
 
 
