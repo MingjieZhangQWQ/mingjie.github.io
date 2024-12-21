@@ -12,7 +12,7 @@ I want to talk about [Tanya Chua](https://en.wikipedia.org/wiki/Tanya_Chua) here
 
 [Click here to see more details.](tanyachua.md)
 
-The three albums below are some of my favorite works by Tanya Chua, and they hold a special place in my heart.
+The three albums below are my favorite works by Tanya Chua. They hold a special place in my heart.
 
 <div style="display: flex; justify-content: space-between; align-items: center; text-align: center;">
   <figure style="width: 30%;">
