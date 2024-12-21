@@ -21,3 +21,5 @@ navigation:
     link: "/"
   - name: "My life"
     link: "/mylife.html"
+  - name: "Tanya Chua"
+    link: "/tanyachua.html"
